@@ -1,0 +1,39 @@
+{
+  "name": "holographic-shader-react",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Futuristic Cyberpunk Holographic 3D Visualization System",
+  "dependencies": {
+    "gsap": "^3.15.0",
+    "lil-gui": "^0.19.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "three": "^0.160.1"
+  },
+  "devDependencies": {
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
