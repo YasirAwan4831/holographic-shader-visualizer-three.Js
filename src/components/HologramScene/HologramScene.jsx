@@ -206,7 +206,7 @@ const HologramScene = () => {
 
           {/* Top-left: Title */}
           <div style={styles.titleBlock}>
-            <span style={styles.systemTag}>// system v2.4.1</span>
+            <span style={styles.systemTag}> {/* comment */} </span>
             <h1 style={styles.title}>HOLO.SYS</h1>
             <span style={styles.subtitle}>Holographic Interface</span>
           </div>
