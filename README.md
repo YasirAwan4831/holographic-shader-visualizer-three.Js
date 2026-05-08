@@ -53,6 +53,20 @@ This project is not just a demo — it is a **production-ready visualization fra
 [https://holographic-threejs.vercel.app/](https://holographic-threejs.vercel.app/)
 
 ---
+---
+
+## 📝 Technical Articles
+
+Explore the complete development journey, rendering architecture, shader engineering and performance optimization behind **HOLO.SYS** across multiple platforms.
+
+- Substack → [Building HOLO.SYS — A Futuristic 3D Holographic Visualization System](https://open.substack.com/pub/yasirwaninfo/p/building-holosys-a-futuristic-3d?r=6rj28o&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+
+- Medium → [Building HOLO.SYS with React, Three.js & GLSL](https://medium.com/@YasirAwan4831/building-holo-sys-a-futuristic-3d-holographic-visualization-system-with-react-three-js-glsl-af42a3d34e20)
+
+- Dev.to → [HOLO.SYS Technical Breakdown](https://dev.to/yasirawan4831/building-holosys-a-futuristic-3d-holographic-visualization-system-with-react-threejs-glsl-oea)
+
+- CoderLegion → [Building HOLO.SYS Futuristic Visualization System](https://coderlegion.com/17092/building-holo-sys-futuristic-3d-holographic-visualization-system-with-react-three-glsl)
+---
 
 ## ✨ Key Features
 <table>
