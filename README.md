@@ -49,8 +49,12 @@ This project is not just a demo — it is a **production-ready visualization fra
 
 ---
 
-## ✨ Key Features
+## 🌐 Live Demo
+[https://holographic-threejs.vercel.app/](https://holographic-threejs.vercel.app/)
 
+---
+
+## ✨ Key Features
 <table>
   <tr>
     <td width="50%">
@@ -354,7 +358,7 @@ gl_FragColor = vec4(uColor, holographic * falloff);
 ## 📄 License
 
 ```
-MIT License — Copyright (c) 2024 Muhammad Yasir Awan 
+MIT License — Copyright (c) 2026 Muhammad Yasir Awan 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files, to deal in the Software
@@ -366,7 +370,7 @@ Software.
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=HOLO.SYS+%C2%A9+2024&fontSize=24&fontColor=00d5ff&animation=fadeIn&fontAlignY=65" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=HOLO.SYS+%C2%A9+2026&fontSize=24&fontColor=00d5ff&animation=fadeIn&fontAlignY=65" width="100%" alt="Footer" />
 </div>
 
 <div align="center">
